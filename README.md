@@ -1,0 +1,1 @@
+#striped down dawn theme
